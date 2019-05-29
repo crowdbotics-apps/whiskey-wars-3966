@@ -1,0 +1,3 @@
+rootProject.name = 'whiskey_wars_3966'
+
+include ':app'
